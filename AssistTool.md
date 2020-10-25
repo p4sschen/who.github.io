@@ -3,7 +3,9 @@ layout: page
 title: Windows进程对比杀软信息&辅助提权补丁对比
 ---
 
-<script src="/assets/getlist.js"></script> 
+<script src="/assets/assistjs/avlist.js"></script>
+<script src="/assets/assistjs/mskblist.js"></script>
+<script src="/assets/assistjs/AssistTool.js"></script>
 
 <center>
 	<textarea style="width: 500px; height: 341px;" id="contentList"></textarea><br><br>
